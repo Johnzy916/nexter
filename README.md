@@ -1,3 +1,3 @@
-# js-u129pc
+# Nexter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-u129pc)
+[CSS Grid Project]CSS Grid Project with Jonas Schmedtmann
