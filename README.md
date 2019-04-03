@@ -1,3 +1,3 @@
 # Nexter
 
-[CSS Grid Project]CSS Grid Project with Jonas Schmedtmann
+CSS Grid Project with Jonas Schmedtmann
